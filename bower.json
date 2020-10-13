@@ -1,0 +1,14 @@
+{
+  "name": "socketio-live-balls",
+  "description": "",
+  "main": "",
+  "authors": [
+    "emrek <emrek@DESKTOP-GUTOIE2>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/emrekucuk24/socketiy-live-balls",
+  "dependencies": {
+    "angular": "^1.8.1",
+    "semantic": "^2.4.1"
+  }
+}
